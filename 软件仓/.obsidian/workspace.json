@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-13.md",
+                "file": "软件/revit/多层楼梯还是复制楼梯？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-13"
+              "title": "多层楼梯还是复制楼梯？"
             }
           }
         ]
@@ -173,12 +173,20 @@
   },
   "active": "d7fe9de8533337b7",
   "lastOpenFiles": [
-    "附件/图片重命名 1.pdf",
-    "附件/图片重命名.pdf",
-    "软件/matlab/2025/2025-04-11.md",
-    "2025-04-13.md",
-    "Excalidraw/Drawing 2025-04-11 17.46.31.excalidraw.md",
+    "软件/revit/虽然没有标注了，但是别忘了一直都是从下往上排的，.md",
+    "软件/revit/球体量.md",
+    "软件/revit/attachments/Pasted image 20250415214716.png",
+    "软件/revit/attachments/Pasted image 20250415214544.png",
+    "软件/revit/attachments",
+    "软件/python/2025/2025-04-13.md",
+    "软件/python/2025",
+    "软件/matlab/知识",
     "Excalidraw/Drawing 2025-04-12 11.50.41.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-11 17.46.31.excalidraw.md",
+    "Chats/New Chat.md",
+    "attachmens/图片重命名 1.pdf",
+    "attachmens/图片重命名.pdf",
+    "软件/matlab/2025/2025-04-11.md",
     "软件/python/语法/函数/enumerate.md",
     "软件/python/语法/函数/os.md",
     "软件/python/语法/功能/斜杠和反斜杠.md",
@@ -194,8 +202,6 @@
     "Obsidian_Diary/attachments/a377318a8ead4382a2125372426d4c7f_2.jpg",
     "Obsidian_Diary/attachments/a377318a8ead4382a2125372426d4c7f_3.jpg",
     "Obsidian_Diary/attachments/a377318a8ead4382a2125372426d4c7f_4.jpg",
-    "Obsidian_Diary/attachments/5fef8a550618483193190bb604bf8385_1.jpg",
-    "Obsidian_Diary/attachments/a377318a8ead4382a2125372426d4c7f_1.jpg",
     "Obsidian_Diary/attachments",
     "Obsidian_Diary/2025-04-10.md",
     "Obsidian_Diary/2025-04-01.md",
@@ -210,14 +216,8 @@
     "软件/python/语法/函数/range.md",
     "软件/python/语法/功能/快捷键.md",
     "软件/python/语法/功能/格式化.md",
-    "软件/matlab/函数图像.md",
-    "软件/matlab/分式拆分.md",
-    "软件/matlab/matlab和python的区别/步长.md",
-    "软件/matlab/matlab和python的区别/遍历.md",
-    "软件/matlab/matlab和python的区别/函数1.md",
-    "Excalidraw",
-    "模板",
-    "附件/genetic_algorithm.m",
-    "软件/matlab/2025"
+    "软件/matlab/知识/函数图像.md",
+    "软件/matlab/知识/分式拆分.md",
+    "软件/matlab/matlab和python的区别/步长.md"
   ]
 }
